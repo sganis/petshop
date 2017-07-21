@@ -2,9 +2,9 @@
   {
     "id": 0,
     "name": "Frieda",
-    "picture": "images/scottish-terrier.jpeg",
+    "picture": "images/golden-retriever.jpeg",
     "age": 3,
-    "breed": "Scottish Terrier",
+    "breed": "Golden Retriever",
     "location": "Lisco, Alabama"
   },
   {
@@ -50,9 +50,9 @@
   {
     "id": 6,
     "name": "Latisha",
-    "picture": "images/golden-retriever.jpeg",
+    "picture": "images/scottish-terrier.jpeg",
     "age": 3,
-    "breed": "Golden Retriever",
+    "breed": "Scottish Terrier",
     "location": "Soudan, Louisiana"
   },
   {
